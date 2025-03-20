@@ -87,7 +87,6 @@ Melhorar a interface gráfica para exibir animações ou mensagens mais amigáve
 --- 
 ## 🧑‍💻 Desenvolvedor
 ### Bruno Araujo de Vasconcellos.
----
 
-Este projeto foi criado para fins de aprendizado em visão computacional e processamento de imagens. Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo foi aplicar tecnologias como MediaPipe e OpenCV para explorar os conceitos de gestos e interação com a máquina de forma criativa.
+<p>Este projeto foi criado para fins de aprendizado em visão computacional e processamento de imagens. Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo foi aplicar tecnologias como MediaPipe e OpenCV para explorar os conceitos de gestos e interação com a máquina de forma criativa.</p>
 =======
