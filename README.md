@@ -74,6 +74,7 @@ DetectorGestos/
 ├── README.md             # Este arquivo com a documentação do projeto
 └── requirements.txt      # Lista de dependências necessárias
 ```
+<<<<<<< HEAD
 main.py: Contém toda a lógica do reconhecimento de gestos e exibição com OpenCV. 
 <br>README.md: Documentação detalhada para uso e entendimento do projeto.
 <br>requirements.txt: Lista das dependências utilizadas (caso queira replicar o ambiente de forma mais controlada).
@@ -92,3 +93,24 @@ Melhorar a interface gráfica para exibir animações ou mensagens mais amigáve
 ### Bruno Araujo de Vasconcellos.
 
 Este projeto foi criado para fins de aprendizado em visão computacional e processamento de imagens. Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo foi aplicar tecnologias como MediaPipe e OpenCV para explorar os conceitos de gestos e interação com a máquina de forma criativa.
+=======
+## 🚀 Como Usar
+Clone ou faça o download deste repositório:
+```bash
+ https://github.com/BrunoAV1/Detector-de-Gestos.git
+```
+Navegue até a pasta do projeto:
+```bash
+ cd DetectorGestos
+```
+Execute o script principal: 
+```bash
+ python main.py
+```
+Acesse a câmera para começar o reconhecimento dos gestos. Pressione a tecla q para encerrar a execução.
+
+## 👏 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 🤝 Agradecimentos
+Este projeto utiliza as incríveis ferramentas do MediaPipe e OpenCV. Agradecimentos à comunidade Python por fornecer recursos tão úteis.
+>>>>>>> 0e55497b1762fa839ccd37d910c821beda0f0395
