@@ -34,11 +34,11 @@ pip install opencv-python mediapipe
 ## 🚀 Como Usar
 Clone ou faça o download deste repositório:
 ```bash
- 
+ https://github.com/BrunoAV1/Detector-de-Gestos.git
 ```
 Navegue até a pasta do projeto:
 ```bash
- cd 
+ cd DetectorGestos
 ```
 Execute o script principal: 
 ```bash
