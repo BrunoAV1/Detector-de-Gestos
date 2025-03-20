@@ -74,9 +74,6 @@ DetectorGestos/
 ├── README.md             # Este arquivo com a documentação do projeto
 └── requirements.txt      # Lista de dependências necessárias
 ```
-main.py: Contém toda a lógica do reconhecimento de gestos e exibição com OpenCV. 
-<br>README.md: Documentação detalhada para uso e entendimento do projeto.
-<br>requirements.txt: Lista das dependências utilizadas (caso queira replicar o ambiente de forma mais controlada).
 ---
 ## 🤝 Contribuições
 Este projeto foi desenvolvido como um experimento educacional e interativo. Se você deseja contribuir, fique à vontade para abrir issues ou criar pull requests. Algumas ideias de melhorias incluem:
